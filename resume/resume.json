@@ -1,29 +1,26 @@
 {
   "basics": {
     "name": "Sergiu Munteanu",
-    "label": "Programmer",
-    "picture": "",
-    "email": "msergiu@outlook.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "label": "Full stack developer",
+    "picture": "https://scontent.xx.fbcdn.net/v/t31.0-8/12971065_1344840002200212_4997549736535730407_o.jpg?oh=d9da3776ba46727038d2726e78495dd5&oe=593FB4A8",
+    "email": "sergiu.munteanu@live.com",
+    "phone": "0046 734 333 988",
+    "website": "https://jsergiu.hithub.io",
+    "summary": "I’m a passionate developer with more than 5 years of experience in web and backend development both as freelancer and employee in small to medium companies. I have strong knowledge in JavaScript (SPA apps) and web frameworks like ReactJS, Redux, VueJS but I also in back-end programming like working with PHP frameworks and the .Net stack. I’m a big fan on using the latest technologies and tools for maximum productivity but I also believe that the best synergy is achieved when the team communicate and agrees on a workflow that fits the product and the company. I also like to provide fast and solid responsive web apps, that works cross browser and offer a good user experience. As for the future, I’m looking for opportunities where I can evolve even more in a motivating environment.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Stockholm",
+      "country": "Sweden"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "username": "w_sergiu",
+        "url": "https://twitter.com/w_sergiu"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "Linkedin",
+        "username": "sergiu.munteanu",
+        "url": "https://www.linkedin.com/in/sergiu-munteanu"
       }
     ]
   },
