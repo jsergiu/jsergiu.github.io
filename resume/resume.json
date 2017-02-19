@@ -106,15 +106,23 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Advanced"
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Beginner"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Travel",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Europe",
+        "Oriental food"
       ]
     }
   ],
